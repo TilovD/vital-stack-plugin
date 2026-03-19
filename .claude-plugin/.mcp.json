@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vital-stack": {
+      "type": "http",
+      "url": "https://supplement-mvp-api.vercel.app/mcp"
+    }
+  }
+}
