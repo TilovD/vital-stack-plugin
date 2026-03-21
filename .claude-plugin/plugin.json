@@ -1,12 +1,12 @@
 {
   "name": "vital-stack",
-  "description": "Health intelligence for your AI assistant — supplement interactions, daily stack planning & science explained. Wearable integration (Garmin) and calorie context coming Q2/Q3 2026. 1,100+ verified pairs from NIH, EFSA & PubMed.",
+  "description": "Health intelligence for your AI assistant — supplement interactions, daily stack planning & science explained. Wearable integration (Garmin) and calorie context coming Q2/Q3 2026. 1,155 verified pairs from NIH, EFSA & PubMed.",
   "version": "1.0.0",
   "author": {
     "name": "Tilo Jahnke",
     "url": "https://vital-stack.com"
   },
-  "homepage": "https://supplement-mvp-api.vercel.app/landing",
+  "homepage": "https://vital-stack.com/landing",
   "repository": "https://github.com/TilovD/vital-stack-plugin",
   "license": "MIT"
 }

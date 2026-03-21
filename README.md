@@ -3,7 +3,7 @@
 > Health intelligence for your AI assistant
 
 **VitalStack** is a Claude plugin (MCP server) that lets you:
-- Check supplement interactions (1,100+ verified pairs from NIH, EFSA & PubMed)
+- Check supplement interactions (1,155 verified pairs from NIH, EFSA & PubMed)
 - Build a personalized daily supplement stack
 - Understand the science behind your supplements
 
@@ -28,8 +28,8 @@ claude plugin install https://github.com/TilovD/vital-stack-plugin
 ## Links
 
 - **API / Source**: Private (proprietary)
-- **Homepage**: https://supplement-mvp-api.vercel.app/landing
-- **Author**: [Tilo von Drathen](https://github.com/TilovD)
+- **Homepage**: https://vital-stack.com/landing
+- **Author**: [Tilo Jahnke](https://github.com/TilovD)
 
 ## License
 
