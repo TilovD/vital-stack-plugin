@@ -29,7 +29,7 @@ claude plugin install https://github.com/TilovD/vital-stack-plugin
 
 - **API / Source**: Private (proprietary)
 - **Homepage**: https://supplement-mvp-api.vercel.app/landing
-- **Author**: [Tilo Jahnke](https://github.com/TilovD)
+- **Author**: [Tilo von Drathen](https://github.com/TilovD)
 
 ## License
 
